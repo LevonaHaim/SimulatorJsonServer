@@ -1,0 +1,168 @@
+{
+  "types": [
+    {
+      "name": "Levo"
+    },
+    {
+      "name": "Spam"
+    },
+    {
+      "name": "Inbox"
+    },
+    {
+      "name": "Drafts"
+    },
+    {
+      "name": "Sent"
+    },
+    {
+      "name": "baba"
+    },
+    {
+      "name": "ee"
+    },
+    {
+      "name": "rt"
+    }
+  ],
+  
+  "simulations": [
+    {
+      "name": "Simulation 1",
+      "description": "Description for Simulation 1",
+      "type": "Levo"
+    },
+    {
+      "name": "Simulation 2",
+      "description": "Description for Simulation 2",
+      "type": "Levo"
+    },
+    {
+      "name": "Simulation 3",
+      "description": "Description for Simulation 3",
+      "type": "Spam"
+    },
+    {
+      "name": "Simulation 4",
+      "description": "Description for Simulation 4",
+      "type": "Spam"
+    },
+    {
+      "name": "Simulation 5",
+      "description": "Description for Simulation 5",
+      "type": "Inbox"
+    },
+    {
+      "name": "Simulation 6",
+      "description": "Description for Simulation 6",
+      "type": "Drafts"
+    },
+    {
+      "name": "Simulation 7",
+      "description": "Description for Simulation 7",
+      "type": "Spam"
+    },
+    {
+      "name": "Simulation 8",
+      "description": "Description for Simulation 7",
+      "type": "Spam"
+    }
+  ],
+  "simulationsRunning": {
+    "Levo": [
+      {
+        "simulation": {
+          "name": "banana",
+          "description": "ceclemc",
+          "startFileName": "Levo-1.json",
+          "endFileName": "Levo-1.json",
+          "type": "Levo"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "levona haim",
+          "description": "kmsk",
+          "startFileName": "Levo-1.json",
+          "endFileName": "Levo-2.json",
+          "type": "Levo"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "ha ha ha",
+          "description": "mcdlvms",
+          "startFileName": "Levo-0.json",
+          "endFileName": "Levo-0.json",
+          "type": "Levo"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "cejchwjs",
+          "description": " ndk n",
+          "startFileName": "Levo-0.json",
+          "endFileName": "Levo-0.json",
+          "type": "Levo"
+        },
+        "isRunning": true
+      },
+      {
+        "simulation": {
+          "name": "latius is the best",
+          "description": "latiusssss",
+          "startFileName": "Levo-0.json",
+          "endFileName": "Levo-2.json",
+          "type": "Levo"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "Tahellll",
+          "description": "bye bye",
+          "startFileName": "Levo-0.json",
+          "endFileName": "Levo-2.json",
+          "type": "Levo"
+        },
+        "isRunning": false
+      }
+    ],
+    "Spam": [
+      {
+        "simulation": {
+          "name": "check toggle",
+          "description": "kmsk",
+          "startFileName": "Spam-1.json",
+          "endFileName": "Spam-1.json",
+          "type": "Spam"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "bla bla bla",
+          "description": "blaaaaaaaaaaaaa",
+          "startFileName": "Spam-1.json",
+          "endFileName": "Spam-1.json",
+          "type": "Spam"
+        },
+        "isRunning": false
+      },
+      {
+        "simulation": {
+          "name": "spam bla bla",
+          "description": "check files",
+          "startFileName": "Spam-1.json",
+          "endFileName": "Spam-1.json",
+          "type": "Spam"
+        },
+        "isRunning": false
+      }
+    ],
+    "Drafts": []
+  }
+}
